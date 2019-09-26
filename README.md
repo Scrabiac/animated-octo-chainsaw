@@ -1,1 +1,1 @@
-# animated-octo-chainsaw
+# v. 1.0.0 is released
